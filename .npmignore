@@ -1,0 +1,11 @@
+node_modules/
+src/
+test/
+.vscode/
+coverage/
+.nyc_output/
+*.log
+tsconfig*.json
+tslint.json
+.travis.yml
+.prettierignore
